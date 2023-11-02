@@ -7,7 +7,7 @@ Purpose:
 
 # IN PROGRESS
 
-* Half-Life
+* ![hl] [Half-Life](https://store.steampowered.com/app/70/HalfLife/)
   * [Source code](https://github.com/GoldSRC-Archipelago/halflife-archipelago)
   * [Assets](https://github.com/GoldSRC-Archipelago/halflife-ap_content)
   * Todos
@@ -17,3 +17,7 @@ Purpose:
 # FINISHED
 
 None yet...
+
+<!--icons-->
+[hl]: https://developer.valvesoftware.com/w/images/archive/8/84/20230531032040%21Icon-Half-Life.png "Gordon! Get away from the BEAMS!"
+[th]: https://developer.valvesoftware.com/w/images/archive/0/03/20230628143600%21Hunger-16px.png "Why do we hunger?"
