@@ -10,6 +10,9 @@ Purpose:
 * Half-Life
   * [Source code](https://github.com/GoldSRC-Archipelago/halflife-archipelago)
   * [Assets](https://github.com/GoldSRC-Archipelago/halflife-ap_content)
+  * Todos
+    * [Source code](https://github.com/orgs/GoldSRC-Archipelago/projects/3)
+    * [Assets](https://github.com/orgs/GoldSRC-Archipelago/projects/4)
 
 # FINISHED
 
